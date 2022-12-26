@@ -1,16 +1,14 @@
-### Hi there 👋
+### Here is what I'm working On! 👋
 
-<!--
-**Xecsa/Xecsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on E-commerce Website
+- 🌱 I’m currently learning  OpenCV+Python+YOLO
+- 👯 I’m looking to collaborate on OpenCV+Python+YOLO
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about anything
+- 📫 How to reach me: xecsaba@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I don't have one yet!
+
